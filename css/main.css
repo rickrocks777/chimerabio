@@ -1358,12 +1358,5 @@ button{
     background: #444;
     color:#fff;
  }
- .btn-light1{
-    background-color: var(--light-blue-color);
-    color: var(--light-color);
-    margin-top: 10px;
-    float: center;
-    margin-left:1200px;
-    margin-bottom:10px;
-}
+ 
  
